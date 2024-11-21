@@ -6,10 +6,7 @@ class Campo{
     }
     
     let lista=[
-    new Campo(7,3),
-    new Campo(8,2),
-    new Campo(9,4),
-    new Campo(10,7),
+
     ];
     
     function totalElementos(){
